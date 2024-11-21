@@ -1,2 +1,3 @@
 # test
-test repository for git command demonstaration
+test repository for git command demonstaration for beginners
+hi sdfghjkl;
